@@ -1,8 +1,10 @@
-* {
+body {
   text-align: center;
   font-family: sans-serif;
   background-color: #272727;
 }
+
+
 
 
 h3{
@@ -43,6 +45,6 @@ span {
   margin-bottom: 20px;
 }
 img{
-  width: 270px;
+  width: 350px;
   height: auto;
 }
