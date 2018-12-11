@@ -1,18 +1,3 @@
-// var SetMinute = 0;
-//
-// function Check_Time() {
-//   SetMinute += 1;
-//   var Check_i = document.getElementById("cal_Hour");
-//
-//   var Cal_Hour = Math.floor(SetMinute / 3600);
-//   var Cal_Minute = Math.floor(Math.floor(SetMinute % 3600) / 60);
-//   var Cal_Second = SetMinute % 60;
-//
-//   Check_i.innerHTML = Cal_Hour + "小時" + Cal_Minute + "分" + Cal_Second + "秒";
-//
-// }
-// var mm = window.setInterval("Check_Time()", 1000);
-
 const day = document.getElementById('cal_Day')
 const hour = document.getElementById('cal_Hour')
 const minute = document.getElementById('cal_Minute')
